@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Huỳnh Trọng - Người Dẫn Dắt HitClub Thành Công và Phát Triển Mạnh Mẽ
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Huỳnh Trọng <https://hitclub11.club/huynh-trong/>`_ là người đứng đầu HitClub, một cổng game bài trực tuyến đang phát triển mạnh mẽ trên thị trường. Với hơn 10 năm kinh nghiệm trong ngành công nghiệp game trực tuyến, ông Huỳnh Trọng đã đưa HitClub trở thành một trong những nền tảng uy tín và được tin cậy nhất trong cộng đồng game thủ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của ông, HitClub không chỉ chú trọng vào việc phát triển các sản phẩm chất lượng mà còn đảm bảo môi trường chơi game an toàn, hợp pháp và bảo mật tuyệt đối cho người dùng. Với tầm nhìn chiến lược và sự đam mê phát triển, CEO Huỳnh Trọng cam kết sẽ tiếp tục mang đến những trải nghiệm đỉnh cao cho người chơi, xây dựng HitClub thành một thương hiệu dẫn đầu trong ngành game trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2672 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0848023210. 
 
-.. toctree::
+Email: contact@hitclub11.club. 
 
-   usage
-   api
+Website: https://hitclub11.club/huynh-trong/ 
+
+#huynhtrong #ceohuynhtrong #ceohuynhtrong_hitclub
